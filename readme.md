@@ -19,9 +19,9 @@ This script aims to pick up where [BeautifulDiscord](https://github.com/leovoel/
 5. Run `npm run inject`
 6. Install any desired plugins, and then run `npm run install-plugins`
 
-To uninstall, run `npm run uninject`
+To uninstall, run `npm run uninstall`
 
-To reinstall, run `npm run reinject`
+To reinstall, run `npm run reinstall`
 
 ## Updating
 
